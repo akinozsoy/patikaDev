@@ -10,6 +10,6 @@ public class IndexCalculator {
         double weight = scanner.nextDouble();
         double bmi = weight / (height * height);
         System.out.println("Vücut Kitle İndeksiniz : "+bmi);
-        scanner.close();
+
     }
 }
