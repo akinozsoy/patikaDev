@@ -12,6 +12,7 @@ public class TaksiMetre {
         total +=startPrice;
         total =(total<20) ? 20 : total;
         System.out.println("Ücretiniz : " +total);
+        //
 
 
 
