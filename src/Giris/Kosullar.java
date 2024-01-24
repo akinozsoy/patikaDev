@@ -12,6 +12,8 @@ public class Kosullar {
         System.out.println(kosul2);
         System.out.println(!sonuc);
         System.out.println(c);
+        boolean x = true, y = false;
+        System.out.println((x && y) || (x || y));
 
 
 
