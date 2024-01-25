@@ -2,7 +2,7 @@ package Giris;
 
 public class test {
     public static void main(String[] args) {
-        int a = 20, b = 10;
+        /**int a = 20, b = 10;
         if ((a < b) && (b++ < 25)){
             System.out.println(a);
         }else{
@@ -10,5 +10,7 @@ public class test {
         }
         System.out.println(b);
 
+    }
+         **/
     }
 }
