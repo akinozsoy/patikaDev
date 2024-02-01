@@ -14,5 +14,6 @@ public class ArtikYil {
         {
             System.out.println(yil + " artık yıl değildir.");
         }
+
     }
 }
